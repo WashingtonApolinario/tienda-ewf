@@ -196,7 +196,7 @@ a#btn-search{
 	background: -ms-linear-gradient(top,  rgba(50,58,62,1) 0%,rgba(46,54,58,1) 100%);
 	background: linear-gradient(to bottom,  rgba(50,58,62,1) 0%,rgba(46,54,58,1) 100%);
 }
-/*  color naranja de Menu principal*/
+/*------color naranja de Menu principal----*/
 .top-nav ul li  a:hover,.top-nav ul li.active a {
 	background: #f78733;
 }
@@ -283,6 +283,8 @@ p.footer-class a:hover{
 	overflow:hidden;
 	width: 100%;
 }
+
+/*----letras sobre las img archivo HOME-------*/
 .b-link-stripe .b-wrapper{
 	position:absolute;
 	width:100%;
@@ -336,10 +338,11 @@ p.footer-class a:hover{
 .b-animate-go:hover .b-animate{
 	visibility:visible;
 }
+/* color naranja sobre img del home.html */
 .b-from-left{
 	position: relative;
 	left: -100%;
-	background:rgba(45, 184, 183, 0.81);
+	background:rgba(247, 135, 51, 0.81);
 	background-size: 100% 100%;
 	top: 0px;
 	margin: 0;
